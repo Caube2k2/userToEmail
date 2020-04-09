@@ -1,4 +1,4 @@
-# userToEmail
+# About code
 Convert user:pass combo to email:pass combo
 
 # How to use? 
